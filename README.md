@@ -1,2 +1,2 @@
-# Ecommerce_Grp-6
+# Ecommerce
 Created with CodeSandbox
